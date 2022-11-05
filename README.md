@@ -11,12 +11,8 @@ So if there is anyone who has some docs for me or some videos pleas contact me. 
 <br>
 <br>
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoaKonopatzki&layout=compact&hide=stars&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoaKonopatzki&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NoaKonopatzki&layout=compact&hide=stars&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoaKonopatzki&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 <!--
 
 - 👯 I’m looking to collaborate on ...
